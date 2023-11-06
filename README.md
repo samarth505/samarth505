@@ -14,4 +14,4 @@
 <a href="https://github.com/samarth505?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=samarth505&show_icons=true"/> </a>
 <a href="https://github.com/samarth505?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1"/> </a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth505&hide_langs_below=1"/> </a>
