@@ -12,6 +12,6 @@
     <a href="https://linkedin.com/in/samarth-goswami"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
   
 <a href="https://github.com/samarth505?tab=repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true"/> </a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=samarth505&show_icons=true"/> </a>
 <a href="https://github.com/samarth505?tab=repositories">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1"/> </a>
