@@ -1,5 +1,5 @@
 ### About Me
-- Well, I am 20 and a final year BBA-IT student at Symbiosis Pune. 
+- Well, I am final year BBA-IT student at Symbiosis Pune. 
 - 🌱 I’m based out of Noida, Uttar Pradesh and completing my studies in Pune. 
 - I'm currently looking for internship opportunities in the field on Management and Analytics.
 - Apart from Academics, I love playing sports, you'll find me at a Cricket Ground, a Football Field or any place with a racket and a ball.
